@@ -25,5 +25,5 @@ To demonstrate ability to work with various APIs and implement cross-API interac
 14. Additional information via https://blog.meer-web.nl/sending-telegram-messages-using-php/
   
 # How to run?:
-1. perl /path/to/codeExampleBot.pl
+1. python3 /path/to/codeExampleBot.py
 2. Check you Telegram for message
