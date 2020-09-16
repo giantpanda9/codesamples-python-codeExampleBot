@@ -1,7 +1,7 @@
 # codesamples-python-codeExampleBot
 Python 3.6.9 requests Telegram API NASAAPI to Telegram
 # Description
-In fact a gateway between the NASA API and Telegram API - if you run the bot it will get the information about closet asteroids to Earth for today and then choose on random asteroid from a returned list and send it to Telegram API to the bot, for which you would provide token and chat id(should be received from Telegram API and populated to the bot configuration cfg file in config folder)
+In fact a gateway between the NASA API and Telegram API - if you run the bot it will get the information about closet asteroids to Earth for today and then choose on random asteroid from a returned list and send it to Telegram API to the bot, for which you would provide token and chat id(should be received from Telegram API and populated to the bot configuration ini file in config folder)
 # Purposes
 To demonstrate ability to work with various APIs and implement cross-API interaction on Perl using LWP::UserAgent
 # Requirements
