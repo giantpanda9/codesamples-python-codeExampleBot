@@ -5,8 +5,8 @@ In fact a gateway between the NASA API and Telegram API - if you run the bot it 
 # Purposes
 To demonstrate ability to work with various APIs and implement cross-API interaction on Perl using LWP::UserAgent
 # Requirements
-1. Perl 5.26
-2. LWP::UserAgent
+1. Python 3.x
+2. urllib.parse and requests
 3. Telegram bot created via botFather(see here: https://core.telegram.org/api)
 # Installation instructions (approximate, not the last ones to follow):
 1. git clone this project
